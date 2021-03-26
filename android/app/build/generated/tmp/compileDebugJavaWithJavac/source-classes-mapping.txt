@@ -1,0 +1,14 @@
+com/sikadasi/MainApplication.java
+ com.sikadasi.MainApplication
+ com.sikadasi.MainApplication$1
+com/sikadasi/ReactNativeFlipper.java
+ com.sikadasi.ReactNativeFlipper
+ com.sikadasi.ReactNativeFlipper$1
+ com.sikadasi.ReactNativeFlipper$2
+ com.sikadasi.ReactNativeFlipper$2$1
+com/sikadasi/BuildConfig.java
+ com.sikadasi.BuildConfig
+com/sikadasi/MainActivity.java
+ com.sikadasi.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
